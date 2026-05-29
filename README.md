@@ -1,3 +1,9 @@
+## Requirements
+
+- An Arch Linux-based distribution (Arch Linux, EndeavourOS, CachyOS, Manjaro, etc.)
+- Hyprland
+- Git
+
 ## Installation
 
 Clone the repository:
